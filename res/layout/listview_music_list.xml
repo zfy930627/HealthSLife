@@ -8,9 +8,15 @@
 		<TextView android:id="@+id/music_name" 
             android:layout_width="wrap_content"
             android:layout_height="wrap_content" 
-         	android:textColor="#393939"
+         	android:textColor="#ccffffff"
             android:textSize="22sp" />
 		
+        <TextView android:id="@+id/music_path" 
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" 
+            android:layout_marginTop="50dp"
+            android:textColor="#ccffffff"
+            android:textSize="13sp" />
         
         
         <TextView android:id="@+id/music_id" 
@@ -23,8 +29,8 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content" 
             android:layout_marginTop="30dp"
-            android:textSize="16sp"
-            android:textColor="#e74c3c"
+            android:textSize="13sp"
+            android:textColor="#ccffffff"
              />
         
         <TextView android:id="@+id/ifactive" 

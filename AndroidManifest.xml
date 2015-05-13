@@ -99,21 +99,15 @@
         </activity>
         <activity
             android:name="com.healthlife.activity.MusicMain"
-            android:label="@string/title_activity_music_main"
-            android:icon="@drawable/music_logo"
-            android:theme="@style/MusicTheme" >
+            android:label="@string/title_activity_music_main" >
         </activity>
         <activity
             android:name="com.healthlife.activity.MusicPlayer"
-            android:label="@string/title_activity_music_player"
-            android:icon="@drawable/music_logo"
-            android:theme="@style/MusicTheme" >
+            android:label="@string/title_activity_music_player" >
         </activity>
         <activity
             android:name="com.healthlife.activity.MusicList"
-            android:label="@string/title_activity_music_list"
-            android:icon="@drawable/music_logo"
-            android:theme="@style/MusicTheme" >
+            android:label="@string/title_activity_music_list" >
         </activity>
         <activity
             android:name="com.healthlife.activity.BackupsActivity"
